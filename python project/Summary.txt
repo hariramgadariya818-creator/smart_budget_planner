@@ -1,0 +1,11 @@
+Smart Travel Budget Planner 
+----------------------Expence Summary--------------------- 
+You spend 6235.0 in Travel 
+You spend 500.0 in Food 
+You spend 2312.0 in Accommodation 
+You spend 785.0 in Shopping 
+----------------------------------------------------------
+Total Spend is 9832.0
+Your Budget is 500000.0
+----------------------------------------------------------
+You are in budget 
